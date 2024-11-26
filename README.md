@@ -2,7 +2,9 @@
 
 A DIY GPS navigator built using ESP32, uBlox Neo M8N GPS module, and an OLED display.
 
+![DIY GPS Device](https://github.com/user-attachments/assets/ce4a9ef7-76ae-41ab-954b-699d16465b3f)
 ## Features
+
 
 - Real-time GPS tracking
 - Display of latitude and longitude
