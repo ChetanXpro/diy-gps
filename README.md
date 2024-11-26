@@ -1,4 +1,7 @@
 # diy-gps
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Cost](https://img.shields.io/badge/Cost-$22-green)
+![Platform](https://img.shields.io/badge/Platform-ESP32-blue)
 
 A DIY GPS navigator built using ESP32, uBlox Neo M8N GPS module, and an OLED display.
 
